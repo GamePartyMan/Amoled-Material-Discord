@@ -60,26 +60,26 @@
 }
 
 .theme-dark {
-  --main-color: #16171a;
-  --main-alt: #0f1012;
+  --main-color: #080808;
+  --main-alt: #080808;
   --server-color: transparent;
   --server-folder-color: rgba(255,255,255,0.085);
-  --status-picker-color: #2c2d31;
-  --sidebar-panel-color: #212226;
-  --chat-color: #202225;
-  --message-color: #292d30;
-  --message-color-hover: #303438;
+  --status-picker-color: #191919;
+  --sidebar-panel-color: #191919;
+  --chat-color: #080808;
+  --message-color: #191919;
+  --message-color-hover: #212121;
   --message-color-alt: rgba(0,0,0,0.275);
   --attachment-color: rgb(0,0,0,0.325);
-  --main-textarea-color: #303338;
+  --main-textarea-color: #191919;
   --main-textarea-color-alt: #3b3f42;
   --main-textarea-border: #3e434a;
-  --typing-color: rgba(32,34,37,0.9);
-  --popout-color: #2c2f33;
+  --typing-color: #080808;
+  --popout-color: #191919;
   --popout-color-alt: #202225;
   --popout-header-border: rgba(255,255,255,0.125);
   --separator-color: rgba(255,255,255,0.115);
-  --profile-body-background-color: #222326;
+  --profile-body-background-color: #191919;
   --input-color: rgba(255,255,255,0.065);
   --input-border-color: #444;
   --input-pill-color: rgba(255,255,255,0.125);
@@ -8167,10 +8167,10 @@ body:active .userPopout-2j1gM4:not(:active), body:active .userPopout-3fydSP:not(
 }
 
 .folder-241Joy {
-  --background-secondary: transparent !important;
+  --background-secondary: rgb(5, 5, 5) !important;
 }
 .folder-241Joy.hover-3m7-WT {
-  --background-primary: var(--server-folder-color) !important;
+  --background-primary: rgb(8, 8, 8) !important;
 }
 
 /*
